@@ -17,6 +17,8 @@ Through a combination of attribute-driven design, parameter exposure, and custom
 
 [Project Breakdown and User Guide](./Breakdown_and_User_Guide.pdf)
 
+▶ Watch the procedural castle demo video: [Download .mp4](./Procedural_Castle_Demo.mp4)
+
 ---
 
 ##  Features
